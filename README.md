@@ -5,7 +5,7 @@ Project on Fake News Detection
 
 Usage:-
 Clone my repository.
-install Python and restart your PC.
+Install Python and restart your PC.
 Open CMD/Terminal in working directory.
 Run `pip install -r requirements.txt` or `pip install pandas sklearn numpy flask`
 Open project in any IDE(Pycharm or VSCode)
